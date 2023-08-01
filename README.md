@@ -1,1 +1,1 @@
-# educational_site
+# Educational Site
